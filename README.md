@@ -1,2 +1,7 @@
 # Band-structure
-The file user_interface is the old RunThis file. So now to run the simulation one needs 3 files: Run, User_interface, Bandstructurefunction. 
+
+### Prerequisite
+* Jupyter notebook installed with packages *ipywidgets*, *scipy*, *numpy* and *matplotlib*. 
+
+### Structure 
+The project contains two folders. As the name says *1D* for 1D bandstructure and *2D* for 2D bandstructure.
